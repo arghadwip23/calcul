@@ -1,0 +1,44 @@
+body {
+    font-size: 15pt;
+}
+table{
+  margin:auto;
+  
+}
+#container{
+  text-align: center;
+  box-shadow: 5px 5px 10px #A9A9A9,-5px -5px 10px #A9A9A9;
+  width:250px;
+  margin-left:15%;
+  margin-top: 20%;
+  height: 370px;
+  
+}
+button{
+  width: 55px;
+  height: 50px;
+  font-size: 30px;
+  font-weight: bold;
+}
+/*@font-face {
+  font-family:digital-7 ;
+  src: url(digital-7.ttf);
+}*/
+input{
+  /*font-family: digital-7;*/
+  width: 227px;
+  border-radius:5px;
+  font-size: 30px;
+}
+h1{
+  color:#FE0000;
+}
+h1 span{
+  color:#209EF0;
+}
+h4{
+  position: fixed;
+  margin-top: 75%;
+  color:#00E3BF;
+  text-align: right;
+}
