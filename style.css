@@ -20,12 +20,12 @@ button{
   font-size: 30px;
   font-weight: bold;
 }
-/*@font-face {
+@font-face {
   font-family:digital-7 ;
   src: url(digital-7.ttf);
-}*/
+}
 input{
-  /*font-family: digital-7;*/
+  font-family: digital-7;
   width: 227px;
   border-radius:5px;
   font-size: 30px;
